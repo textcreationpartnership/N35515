@@ -1,0 +1,134 @@
+#The voyages and adventures of Captain Robert Boyle, in several parts of the world. Intermixed with the story of Mrs. Villars, an English lady, with whom he made his surprising escape from Barbary. : Likewise including The history of an Italian captive, and the Life of Don Pedro Aquilio, &c. : Full of various and amazing turns of fortune.#
+
+##Chetwood, W. R. (William Rufus), d. 1766.##
+The voyages and adventures of Captain Robert Boyle, in several parts of the world. Intermixed with the story of Mrs. Villars, an English lady, with whom he made his surprising escape from Barbary. : Likewise including The history of an Italian captive, and the Life of Don Pedro Aquilio, &c. : Full of various and amazing turns of fortune.
+Chetwood, W. R. (William Rufus), d. 1766.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N35/N35515.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N35/N35515.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2004-11__ __TCP__ *Assigned for keying and markup*
+1. __2005-09__ __AEL Data (Chennai)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2006-02__ __Olivia Bottum__ *Sampled and proofread*
+1. __2006-04__ __AEL Data (Chennai)__ *Re-keyed and coded from Readex/Newsbank page images*
+1. __2007-01__ __Olivia Bottum__ *Sampled and proofread*
+1. __2007-01__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2007-02__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+
+1. To the Right Honourable SIR WILLIAM YONGE, One of the LORDS of the Treasury, AND KNIGHT of the Most Hon. Order of the BATH.
+
+#####Body#####
+
+1. THE ADVENTURES OF Captain ROBERT BOYLE, &c.
+
+1. THE HISTORY OF MISS VILLARS.
+
+1. THE HISTORY OF THE ITALIAN SLAVE.
+
+1. THE LIFE OF DON PEDRO AQUILLIO.
+
+#####Back#####
+
+1. THE FOLLOWING BOOKS MAY BE HAD OF JOHN W. FOLSOM.
+
+**Types of content**
+
+  * There are 13 **verse** lines!
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 805 **ommitted** fragments! 
+ @__reason__ (805) : illegible (805)  •  @__resp__ (805) : #AELD (805)  •  @__extent__ (805) : 1 word (268), 1 letter (284), 2 letters (137), 3 letters (45), 4 letters (15), 2 words (8), 1 span (48)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|General Punctuation|—•…|8212 8226 8230|
+|Geometric Shapes|▪◊|9642 9674|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|5||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|7||
+|5.|__date__|9| @__when__ (1) : 2007-10 (1)|
+|6.|__editorialDecl__|1||
+|7.|__extent__|2||
+|8.|__idno__|6| @__type__ (6) : DLPS (1), TCP (1), STC (1), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|9.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|10.|__label__|7||
+|11.|__langUsage__|1||
+|12.|__language__|1| @__ident__ (1) : eng (1)|
+|13.|__listPrefixDef__|1||
+|14.|__note__|7||
+|15.|__notesStmt__|2||
+|16.|__p__|11||
+|17.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|18.|__projectDesc__|1||
+|19.|__pubPlace__|2||
+|20.|__publicationStmt__|2||
+|21.|__publisher__|2||
+|22.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|23.|__seriesStmt__|1||
+|24.|__sourceDesc__|1||
+|25.|__term__|4||
+|26.|__textClass__|1||
+|27.|__title__|3||
+|28.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__abbr__|2||
+|2.|__body__|25||
+|3.|__closer__|23||
+|4.|__desc__|805||
+|5.|__div__|7| @__type__ (7) : title_page (1), dedication (1), text (4), publishers_advertisement (1)|
+|6.|__floatingText__|25| @__type__ (25) : letter (25)|
+|7.|__g__|1552| @__ref__ (1552) : char:EOLhyphen (1459), char:punc (92), char:EOLunhyphen (1)|
+|8.|__gap__|805| @__reason__ (805) : illegible (805)  •  @__resp__ (805) : #AELD (805)  •  @__extent__ (805) : 1 word (268), 1 letter (284), 2 letters (137), 3 letters (45), 4 letters (15), 2 words (8), 1 span (48)|
+|9.|__head__|8||
+|10.|__hi__|73||
+|11.|__item__|62||
+|12.|__l__|13||
+|13.|__list__|1||
+|14.|__note__|1| @__n__ (1) : * (1)  •  @__place__ (1) : bottom (1)|
+|15.|__opener__|18||
+|16.|__p__|881||
+|17.|__pb__|249| @__facs__ (249) : tcp:046409_0000_10215E8A22C19928 (1), tcp:046409_0001_1021453D73718E40 (1), tcp:046409_0002_10214548DE366000 (1), tcp:046409_0003_102145644A5658D8 (1), tcp:046409_0004_10215DC8AFD78F00 (1), tcp:046409_0005_10215DCBEF3E8F08 (1), tcp:046409_0006_10215DCD7AD2B740 (1), tcp:046409_0007_10215DCFD397A7D0 (1), tcp:046409_0008_10215DD180E10578 (1), tcp:046409_0009_10215DD41DDCCA68 (1), tcp:046409_0010_10215DD81A679908 (1), tcp:046409_0011_10215DD9A6C110F8 (1), tcp:046409_0012_10215DDB6A595AB8 (1), tcp:046409_0013_10215DDF173CE5F8 (1), tcp:046409_0014_10215DE2337CC170 (1), tcp:046409_0015_10215DE3EABE0440 (1), tcp:046409_0016_10215DE63AC24838 (1), tcp:046409_0017_10215DEAE8EB7AA8 (1), tcp:046409_0018_10215DEC72878818 (1), tcp:046409_0019_10215DEE01E3FA70 (1), tcp:046409_0020_10215DEFB73E0378 (1), tcp:046409_0021_10215DF3C4076AF8 (1), tcp:046409_0022_10215DF61ABE40A0 (1), tcp:046409_0023_10215DF7CDA220A8 (1), tcp:046409_0024_10215DFA471C3890 (1), tcp:046409_0025_10215DFD8B712360 (1), tcp:046409_0026_10215DFFEF114548 (1), tcp:046409_0027_10215E01868E8720 (1), tcp:046409_0028_10215E035641F3C8 (1), tcp:046409_0029_10215E063B88C4B8 (1), tcp:046409_0030_10215E0A371D5448 (1), tcp:046409_0031_10215E0BC5A7D488 (1), tcp:046409_0032_10215E0ECCFF2600 (1), tcp:046409_0033_10215E13145ADC78 (1), tcp:046409_0034_10215E1568E24B18 (1), tcp:046409_0035_10215E17F34CEB58 (1), tcp:046409_0036_10215E1AD26B5118 (1), tcp:046409_0037_10215E1EF4CFB6E0 (1), tcp:046409_0038_10215E2083AA5AC0 (1), tcp:046409_0039_10215E220E7D1758 (1), tcp:046409_0040_10215E248889FD48 (1), tcp:046409_0041_10215E27CC496A90 (1), tcp:046409_0042_10215E2A1C591098 (1), tcp:046409_0043_10215E2BA5E55EC8 (1), tcp:046409_0044_10215E2E459FC220 (1), tcp:046409_0045_10215E33557AB3F8 (1), tcp:046409_0046_10215E34E0881830 (1), tcp:046409_0047_10215E366E43FE80 (1), tcp:046409_0048_10215E395DA376A0 (1), tcp:046409_0049_10215E3DA325E108 (1), tcp:046409_0050_10215E3F2C662E30 (1), tcp:046409_0051_10215E40B7BF1A58 (1), tcp:046409_0052_10215E43691CA498 (1), tcp:046409_0053_10215E45F8E96D70 (1), tcp:046409_0054_10215E4973460D88 (1), tcp:046409_0055_10215E4BE03FA550 (1), tcp:046409_0056_10215E4EAD29EF78 (1), tcp:046409_0057_10215E514308B008 (1), tcp:046409_0058_10215E52D049B168 (1), tcp:046409_0059_10215E556634F9B0 (1), tcp:046409_0060_10215E570C7F4F70 (1), tcp:046409_0061_10215E59CFE6A208 (1), tcp:046409_0062_1021453BDE5365B0 (1), tcp:046409_0063_10215E5DC5EB84A8 (1), tcp:046409_0064_10215E5F4FE5CF18 (1), tcp:046409_0065_10215E629F9BF310 (1), tcp:046409_0066_10215E6532C33D40 (1), tcp:046409_0067_10215E67B5BD9D38 (1), tcp:046409_0068_10215E69455105E0 (1), tcp:046409_0069_10215E6D39A850A0 (1), tcp:046409_0070_10215E6FC2A31068 (1), tcp:046409_0071_10215E71532C8608 (1), tcp:046409_0072_10215E7308B8AA80 (1), tcp:046409_0073_10215E766B27ED88 (1), tcp:046409_0074_10215E7A78984800 (1), tcp:046409_0075_10215E7C28256B88 (1), tcp:046409_0076_10215E7DC1A49010 (1), tcp:046409_0077_10215E811DA7E758 (1), tcp:046409_0078_10215E82A8C33DE0 (1), tcp:046409_0079_10215E8507277390 (1), tcp:046409_0080_10215E878167D530 (1), tcp:046409_0081_1021453A58662B88 (1), tcp:046409_0082_10215E8EF3D8FAD0 (1), tcp:046409_0083_10215E9085847DA8 (1), tcp:046409_0084_10215E922727ED00 (1), tcp:046409_0085_10215E948FDDA928 (1), tcp:046409_0086_10215E98C5BB1638 (1), tcp:046409_0087_10215E9A522B8510 (1), tcp:046409_0088_10215F7AA9DFA678 (1), tcp:046409_0089_102145465EBA60F8 (1), tcp:046409_0090_10215E9BF0EFF440 (1), tcp:046409_0091_10215E9E696D2210 (1), tcp:046409_0092_10215EA19A19D2E0 (1), tcp:046409_0093_10215EA41F366EC8 (1), tcp:046409_0094_10215EA6788C9BB8 (1), tcp:046409_0095_10215EA858647608 (1), tcp:046409_0096_10215EACF55ED780 (1), tcp:046409_0097_10215EAE83405620 (1), tcp:046409_0098_10215EB102AD39F8 (1), tcp:046409_0099_10215EB2929E0978 (1), tcp:046409_0100_10215EB694AE7AB8 (1), tcp:046409_0101_10215EB8222691A8 (1), tcp:046409_0102_10215EB9E1773AF0 (1), tcp:046409_0103_10215EBD8658BD98 (1), tcp:046409_0104_10215EBFE3412580 (1), tcp:046409_0105_10215EC24A8EF508 (1), tcp:046409_0106_10215EC3F3BC3788 (1), tcp:046409_0107_10215EC76C8FA378 (1), tcp:046409_0108_10215ECAB1EC22D8 (1), tcp:046409_0109_10215ECC4049A390 (1), tcp:046409_0110_10215ECDCCE03038 (1), tcp:046409_0111_10215ED0A7F36EA8 (1), tcp:046409_0112_10215ED4DB95CC50 (1), tcp:046409_0113_10215ED6660A3C48 (1), tcp:046409_0114_10215ED8C2078FD0 (1), tcp:046409_0115_10215EDC087ACAA8 (1), tcp:046409_0116_10215EDD93A53490 (1), tcp:046409_0117_10215EDFFA545F80 (1), tcp:046409_0118_10215EE1ABA416B0 (1), tcp:046409_0119_10215EE40EFEC2A8 (1), tcp:046409_0120_10215EE825957D90 (1), tcp:046409_0121_10215EE9B016F578 (1), tcp:046409_0122_10215EEB40A70DA0 (1), tcp:046409_0123_10215EEDC60F9320 (1), tcp:046409_0124_10214544CF980120 (1), tcp:046409_0125_10215EF0DBAD6748 (1), tcp:046409_0126_10215EF3661ECA00 (1), tcp:046409_0127_10215EF5BB2407A8 (1), tcp:046409_0128_10215EF8811EB670 (1), tcp:046409_0129_10215EFBC86838C0 (1), tcp:046409_0130_10215EFD51585690 (1), tcp:046409_0131_10215EFEF8B522B8 (1), tcp:046409_0132_10215F016A3B95A0 (1), tcp:046409_0133_10215F04979389A8 (1), tcp:046409_0134_10215F06F5CFAE38 (1), tcp:046409_0135_10215F095D1DD798 (1), tcp:046409_0136_10215F0C9067F380 (1), tcp:046409_0137_10215F0E1AB8CE18 (1), tcp:046409_0138_10215F108A436D18 (1), tcp:046409_0139_10215F12169EB1F8 (1), tcp:046409_0140_10215F1542334350 (1), tcp:046409_0141_10215F17B17E8070 (1), tcp:046409_0142_10215F1A25EEF3E8 (1), tcp:046409_0143_10215F1C0AAFF640 (1), tcp:046409_0144_10215F1EA97E7790 (1), tcp:046409_0145_10215F22E779F8E8 (1), tcp:046409_0146_10215F24712DE7A0 (1), tcp:046409_0147_10215F260076E968 (1), tcp:046409_0148_10215F288C85B040 (1), tcp:046409_0149_10215F2BE4B98CE0 (1), tcp:046409_0150_10215F2E91B64D40 (1), tcp:046409_0151_10215F311AB1D4F0 (1), tcp:046409_0152_10215F33A40684D8 (1), tcp:046409_0153_10215F360B536A00 (1), tcp:046409_0154_10215F38A45E0B18 (1), tcp:046409_0155_10215F3A36092528 (1), tcp:046409_0156_10215F3E297FFA48 (1), tcp:046409_0157_10215F406EADB8E8 (1), tcp:046409_0158_10215F41F793F760 (1), tcp:046409_0159_10215F43B6391698 (1), tcp:046409_0160_10215F4644A68958 (1), tcp:046409_0161_10215F4A11BA8F18 (1), tcp:046409_0162_10215F4B9B585208 (1), tcp:046409_0163_10215F4E07FD3638 (1), tcp:046409_0164_10215F50982B0300 (1), tcp:046409_0165_10215F545597F058 (1), tcp:046409_0166_10215F55DF917778 (1), tcp:046409_0167_10215F585CFA6178 (1), tcp:046409_0168_10215F59EE6D5C58 (1), tcp:046409_0169_10215F5E24BDF5C8 (1), tcp:046409_0170_10215F5FAF68A860 (1), tcp:046409_0171_10215F6141828150 (1), tcp:046409_0172_10215F65A2BA4628 (1), tcp:046409_0173_10215F672F8EB690 (1), tcp:046409_0174_10215F6A4362FD38 (1), tcp:046409_0175_10215F6CDA415428 (1), tcp:046409_0176_10215F6FEB3E82C8 (1), tcp:046409_0177_10215F721FA77C30 (1), tcp:046409_0178_10215F73A8AA4F10 (1), tcp:046409_0179_10215F756BBCD2B8 (1), tcp:046409_0180_10215F786EEFA3E8 (1), tcp:046409_0181_10214542546AAF40 (1), tcp:046409_0182_10215E8EF3D8FAD0 (1), tcp:046409_0183_10215F7F5096E320 (1), tcp:046409_0184_10215F80F7021B88 (1), tcp:046409_0185_10215F851CC76A98 (1), tcp:046409_0186_10215F86A634CEB8 (1), tcp:046409_0187_10215F890EA34C98 (1), tcp:046409_0188_1021600A44DE8560 (1), tcp:046409_0189_1021454E3171FD50 (1), tcp:046409_0190_10214560E0697858 (1), tcp:046409_0191_10215F8B8C1F4580 (1), tcp:046409_0192_10215F901970B9D0 (1), tcp:046409_0193_10215F91C6AF1328 (1), tcp:046409_0194_10215F9409AFCC20 (1), tcp:046409_0195_10215F97B874E180 (1), tcp:046409_0196_10215F9945D26EC8 (1), tcp:046409_0197_10215F9B0507D780 (1), tcp:046409_0198_10215F9E03DD6910 (1), tcp:046409_0199_10215FA1088117F0 (1), tcp:046409_0200_10215FA291CF6ED8 (1), tcp:046409_0201_10215FA41A191760 (1), tcp:046409_0202_10215FA67A9E5CE8 (1), tcp:046409_0203_10215FA9DFD3C038 (1), tcp:046409_0204_10215FAC34529B88 (1), tcp:046409_0205_10215FAE9CD32A68 (1), tcp:046409_0206_10215FB116912D08 (1), tcp:046409_0207_10215FB36787CBF8 (1), tcp:046409_0208_10215FB5C5F31628 (1), tcp:046409_0209_10215FB766838AF8 (1), tcp:046409_0210_10215FB9E4EEE138 (1), tcp:046409_0211_10215FBCFB8DC9E0 (1), tcp:046409_0212_10215FBF83328310 (1), tcp:046409_0213_10215FC20EE95E18 (1), tcp:046409_0214_10215FC50B3E9DC8 (1), tcp:046409_0215_10215FC823718068 (1), tcp:046409_0216_10215FC9AD7920E8 (1), tcp:046409_0217_10215FCB53F7ADD8 (1), tcp:046409_0218_10215FCEE52A6780 (1), tcp:046409_0219_10215FD1F4106E20 (1), tcp:046409_0220_10215FD380D3A3B0 (1), tcp:046409_0221_10215FD524F86E88 (1), tcp:046409_0222_10215FD786C70FC8 (1), tcp:046409_0223_10215FDAE67F8B88 (1), tcp:046409_0224_10215FDD3844E458 (1), tcp:046409_0225_10215FDFA8BB4EA0 (1), tcp:046409_0226_10215FE2C50873C0 (1), tcp:046409_0227_10215FE5162FDEE0 (1), tcp:046409_0228_10215FE790C24498 (1), tcp:046409_0229_10215FEA01005CE8 (1), tcp:046409_0230_10215FED3862B528 (1), tcp:046409_0231_10215FEEF6E33948 (1), tcp:046409_0232_10215FF170816F48 (1), tcp:046409_0233_10215FF31C637C90 (1), tcp:046409_0234_10215FF6B964EEA0 (1), tcp:046409_0235_10215FF9D87B3258 (1), tcp:046409_0236_10215FFB63B34070 (1), tcp:046409_0237_10215FFD24338078 (1), tcp:046409_0238_102160011AA42120 (1), tcp:046409_0239_1021600369E22EE8 (1), tcp:046409_0240_10216004F4362E30 (1), tcp:046409_0241_10216006B8E483A0 (1), tcp:046409_0242_1021454C09965C68 (1), tcp:046409_0243_1021600D5DD53500 (1), tcp:046409_0244_1021600FAF13D970 (1), tcp:046409_0245_1021601204AFC4A0 (1), tcp:046409_0246_10216013F217AF48 (1), tcp:046409_0247_102160183300D2E0 (1), tcp:046409_0248_10216019C193CB18 (1)  •  @__n__ (241) : iv (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (2), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 49 (1), 50 (1), 51 (1), 52 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 117 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 137 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 144 (2), 145 (1), 146 (1), 147 (1), 148 (1), 149 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 162 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 173 (1), 175 (1), 176 (1), 177 (1), 178 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 184 (1), 185 (1), 186 (1), 187 (1), 188 (1), 189 (1), 190 (1), 191 (1), 192 (1), 193 (1), 194 (1), 195 (1), 196 (1), 197 (1), 198 (1), 199 (1), 200 (1), 201 (1), 202 (1), 203 (1), 204 (1), 205 (1), 206 (1), 207 (1), 208 (1), 209 (1), 210 (1), 211 (1), 212 (1), 213 (1), 214 (1), 215 (1), 216 (1), 217 (1), 218 (1), 219 (1), 220 (1), 221 (1), 222 (1), 223 (1), 224 (1), 225 (1), 226 (1), 227 (1), 228 (1), 229 (1), 230 (1), 231 (1), 232 (1), 233 (1), 234 (1), 235 (1), 236 (1), 237 (1), 238 (1), 239 (1), 240 (1), 241 (1), 242 (1), 243 (1), 244 (1), 245 (1), 246 (1), 247 (1), 248 (1), 249 (1)|
+|18.|__postscript__|3||
+|19.|__q__|7||
+|20.|__salute__|18||
+|21.|__signed__|23||
+|22.|__trailer__|1||
